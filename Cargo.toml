@@ -2,4 +2,5 @@
 
 members = [
     "mqtt-publisher",
+    "mqtt-subscriber",
 ]
